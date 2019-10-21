@@ -1,0 +1,250 @@
+C:/Users/MAHMOUDABDELHADI/Desktop/lab5/vDFFE.v {1 {vlog -work work -stats=none {C:\Users\MAHMOUDABDELHADI\Desktop\lab5\vDFFE.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vDFFE
+
+Top level modules:
+	vDFFE
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/regfile.v {1 {vlog -work work -stats=none {C:\Users\MAHMOUDABDELHADI\Desktop\lab5CPEN\regfile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/8to1mux.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/8to1mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module eighttoonemux
+
+Top level modules:
+	eighttoonemux
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/lab5_top_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/lab5_top_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab5_top_tb
+
+Top level modules:
+	lab5_top_tb
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/shifter.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/shifter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/lab5_top.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/lab5_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lock
+-- Compiling module vDFF
+
+Top level modules:
+	lock
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/vDFF.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/vDFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vDFF
+
+Top level modules:
+	vDFF
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/lab5_autograder_check.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/lab5_autograder_check.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab5_check_1
+-- Compiling module lab5_check_2
+-- Compiling module lab5_check_3
+
+Top level modules:
+	lab5_check_1
+	lab5_check_2
+	lab5_check_3
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/3_8decoder.v {1 {vlog -work work -stats=none {C:\Users\MAHMOUDABDELHADI\Desktop\lab5CPEN\3_8decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/datapath.v {1 {vlog -work work -stats=none {C:\Users\MAHMOUDABDELHADI\Desktop\lab5\datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/MUX_6.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/MUX_6.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_6
+
+Top level modules:
+	mux_6
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/ALU_tb.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/ALU_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/MUX_7.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/MUX_7.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_7
+
+Top level modules:
+	mux_7
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/vDFFE.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/vDFFE.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vDFFE
+
+Top level modules:
+	vDFFE
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/ALU.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/MUX_9.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/MUX_9.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_9
+
+Top level modules:
+	mux_9
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/shifter_tb.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/shifter_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter_tb
+
+Top level modules:
+	shifter_tb
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/shifter.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/shifter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/lab5_autograder_check.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/lab5_autograder_check.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab5_check_1
+-- Compiling module lab5_check_2
+-- Compiling module lab5_check_3
+
+Top level modules:
+	lab5_check_1
+	lab5_check_2
+	lab5_check_3
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/vDFF.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/vDFF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module vDFF
+
+Top level modules:
+	vDFF
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/lab5_top.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/lab5_top.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab5_top
+-- Compiling module input_iface
+-- Compiling module sseg
+
+Top level modules:
+	lab5_top
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/clock.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/clock.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clock
+
+Top level modules:
+	clock
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/MUX_6.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/MUX_6.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_6
+
+Top level modules:
+	mux_6
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/ALU_tb.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/ALU_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU_tb
+
+Top level modules:
+	ALU_tb
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/datapath.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/regfile.v {1 {vlog -work work -stats=none {C:\Users\MAHMOUDABDELHADI\Desktop\lab5\regfile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/8to1mux.v {1 {vlog -work work -stats=none {C:\Users\MAHMOUDABDELHADI\Desktop\lab5\8to1mux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module eighttoonemux
+
+Top level modules:
+	eighttoonemux
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/MUX_7.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/MUX_7.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_7
+
+Top level modules:
+	mux_7
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/lab5_top_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/lab5_top_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module lab5_top_tb
+
+Top level modules:
+	lab5_top_tb
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/MUX_9.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/MUX_9.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_9
+
+Top level modules:
+	mux_9
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/ALU.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5/3_8decoder.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5/3_8decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Decoder
+
+Top level modules:
+	Decoder
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/regfile_tb.v {1 {vlog -work work -stats=none {C:\Users\MAHMOUDABDELHADI\Desktop\lab5CPEN\regfile_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regfile_tb
+
+Top level modules:
+	regfile_tb
+
+} {} {}} C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/clock.v {1 {vlog -work work -stats=none C:/Users/MAHMOUDABDELHADI/Desktop/lab5CPEN/clock.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clock
+
+Top level modules:
+	clock
+
+} {} {}}
