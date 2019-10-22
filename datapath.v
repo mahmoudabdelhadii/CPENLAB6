@@ -20,7 +20,7 @@ mux_6 mux6(Ain,outinA,16'b0,asel);
 shifter U1 (outinB,shift,sout);
 
 
-mux_7 mux7(Bin,outinB,{11'b0, datapath_in[4:0]});
+ mux_7 mux7(Bin,outinB,sximm5);
 
  ALU U2(Ain,Bin,out,ALUop,Z);
 
